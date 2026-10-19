@@ -1,0 +1,10 @@
+{
+  "name": "my-wisp-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx wisp-server-node --port $PORT"
+  },
+  "dependencies": {
+    "wisp-server-node": "^1.1.3"
+  }
+}
